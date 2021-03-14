@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shl0KKakade
+- 👋 Hi, I’m Shlok Kakade
 - 👀 I’m interested in ==> Bulding and Reverse Engineering softwares
 - 🌱 I’m currently learning ==> Data-structures 
 - 💞️ I’m looking to collaborate on ==> Nothing I am just a student
